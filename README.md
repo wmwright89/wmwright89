@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi 👋, 
 
-<!--
-**wmwright89/wmwright89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wesley Wright, a Senior Consultant with over 6 years of experience delivering enterprise software solutions across regulated industries including pharmaceuticals,
+medical devices, and food processing. I specialize in Salesforce-based Quality Managment Systems (QMS), particularly TrackWise Digital and hold certifications in 
+Salesforce Platform App Builder, Business Analyst and Scrum.
 
-Here are some ideas to get you started:
+I recently earned my MBA and am actively expanding into Salesforce architecture and development, with a focus on data modeling and Apex.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧Tech Stack
+- Salesforce Platform: Experience Cloud, Flow Builder, Apex, SOQL, Validation Rules
+- QMS Platforms: TrackWise Digital, Compliance workflows
+- Languages: Apex, SQL
+- Certifications:
+    - Salesforce App Builder
+    - Salesforce Business Analyst
+    - PSM I (Scrum.org)
+ - Tools: Github, VS Code, Jira, Confluence
+
+📈Professional Highlights
+ - Led solution delivery for Fortune 500 life sciences clients, ensuring GxP and FDA compliance
+ - Served in the U.S. military as a team leader and briefing executive officers
+ - Promoted rapidly based on performance in consulting engagements
+
+🏫Education
+ - MBA, Liberty University (2025)
+ - B.S. in Information Technology - Cognate in Application and Database Development
+
+🔍What I'm Working On
+ - Preparing for Salesforce Data Architect and Platform Developer I certifications
+ - Contributing to open-source tools
+ - Learning GitHub best practices and building a stronger developer profile
+
+📫Connect With Me
+ - LinkeIn: https://www.linkedin.com/in/wesleywright89/
+ - GitHub: https://github.com/wmwright89
+ - Email: wmwright89@gmail.com
+
